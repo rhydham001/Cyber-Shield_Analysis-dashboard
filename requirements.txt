@@ -1,0 +1,8 @@
+streamlit>=1.49
+pandas>=2.2
+scikit-learn>=1.5
+nltk>=3.9
+spacy>=3.8
+textblob>=0.18
+torch>=2.6
+pytest>=8.0
